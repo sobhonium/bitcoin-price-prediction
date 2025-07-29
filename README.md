@@ -22,7 +22,7 @@ This project provides a standard Python package for predicting Bitcoin prices us
    ```bash
    pip install -r requirements.txt
    ```
-3. Place the Bitcoin price data CSV in the `data/` directory.
+3. Place the Bitcoin price data CSV in the `data/` directory. You can download it from https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data .
 4. Run the main scripts for training and prediction.
 
 ## Requirements
